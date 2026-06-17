@@ -1,5 +1,7 @@
 # 📚 Fiches de révision — Brevet des collèges
 
+[![Licence : CC BY-NC-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--SA%204.0-blueviolet.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Fiches de révision illustrées (style manuscrit / *studygram*) pour le **Brevet des collèges 2026**, pensées pour les élèves qui veulent **comprendre** et **remonter leur note** — pas seulement réciter.
 
 Chaque fiche est annotée par deux « voix » :
@@ -51,6 +53,8 @@ Chaque fiche est annotée par deux « voix » :
 
 **© Franck BARDOL** — sous licence
 [**Creative Commons BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Vous êtes libre de :
 - **Partager** — copier et redistribuer ces fiches ;
